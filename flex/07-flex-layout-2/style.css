@@ -19,9 +19,12 @@ body {
 }
 
 .footer {
+  display: flex;
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  align-items: center;
+  justify-content: center;
 }
 
 .sidebar {
